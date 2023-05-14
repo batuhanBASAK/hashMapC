@@ -1,6 +1,7 @@
 #include "hashmap.h"
 
-int main(){
+int main()
+{
     hashmap_t *map = init_hashmap();
     
     // put some entry
